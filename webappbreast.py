@@ -9,7 +9,7 @@ import numpy as np
 import pickle
 import streamlit as st
 
-loaded_model=pickle.load(open("C:/Users/admin/Desktop/deploy/traained_model.sav",'rb'))
+loaded_model=pickle.load(open("./traained_model.sav",'rb'))
 def tumor_prediction(input_data):
     
     inputdatatonumpy=np.asarray(input_data,dtype=float)
