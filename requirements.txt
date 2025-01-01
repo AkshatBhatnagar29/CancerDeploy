@@ -1,51 +1,47 @@
-
+aiohappyeyeballs==2.4.4
 altair==5.5.0
-attrs @ file:///C:/b/abs_89hmquz5ga/croot/attrs_1734533130810/work
+attrs==24.3.0
 blinker==1.9.0
 cachetools==5.5.0
-certifi @ file:///C:/b/abs_59o0xj7aav/croot/certifi_1734473304008/work/certifi
-charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
-click @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/click_1699473800648/work
+certifi==2024.12.14
+charset-normalizer==3.4.1
+click==8.1.8
 gitdb==4.0.11
-GitPython==3.1.43
-idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
-importlib_metadata @ file:///C:/b/abs_9d0lp1ysmt/croot/importlib_metadata-suite_1732633510972/work
-Jinja2 @ file:///C:/b/abs_ddyeze2h6_/croot/jinja2_1730903330414/work
+GitPython==3.1.41
+idna==3.10
+Jinja2==3.1.5
 joblib==1.4.2
-jsonschema @ file:///C:/b/abs_394_t6__xq/croot/jsonschema_1728486718320/work
-jsonschema-specifications @ file:///C:/Users/dev-admin/py312/jsonschema-specifications_1706803038066/work
-markdown-it-py @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markdown-it-py_1699473886965/work
-MarkupSafe @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markupsafe_1707425732791/work
-mdurl @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mdurl_1699473506455/work
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+markdown-it-py==3.0.0
+MarkupSafe==3.0.2
+mdurl==0.1.2
 narwhals==1.20.1
 numpy==2.2.1
-packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
+packaging==24.2
 pandas==2.2.3
 pillow==11.0.0
 protobuf==5.29.2
 pyarrow==18.1.0
 pydeck==0.9.1
-Pygments @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pygments_1699474141968/work
-python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
-pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
-referencing @ file:///C:/Users/dev-admin/py312/referencing_1706802962559/work
-requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
-rich @ file:///C:/b/abs_8b92fzmygg/croot/rich_1732638991774/work
-rpds-py @ file:///C:/b/abs_4b4__dizw9/croot/rpds-py_1732234502033/work
+Pygments==2.18.0
+pypi==2.1
+python-dateutil==2.9.0.post0
+pytz==2024.2
+referencing==0.35.1
+requests==2.32.3
+rich==13.9.4
+rpds-py==0.22.3
 scikit-learn==1.6.0
 scipy==1.14.1
-setuptools==75.1.0
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+six==1.17.0
 smmap==5.0.1
 streamlit==1.41.1
 tenacity==9.0.0
 threadpoolctl==3.5.0
 toml==0.10.2
-tomli @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/tomli_1699472528897/work
-tornado @ file:///C:/b/abs_7cyu943ybx/croot/tornado_1733960510898/work
-typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
+tornado==6.4.2
+typing_extensions==4.12.2
 tzdata==2024.2
-urllib3 @ file:///C:/b/abs_9a_f8h_bn2/croot/urllib3_1727769836930/work
-watchdog @ file:///C:/b/abs_b3l_3s276z/croot/watchdog_1717166538403/work
-wheel==0.44.0
-zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
+urllib3==2.3.0
+watchdog==6.0.0
